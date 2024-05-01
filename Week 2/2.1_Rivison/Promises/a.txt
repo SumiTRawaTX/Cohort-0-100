@@ -1,0 +1,11 @@
+promises are just syntactical sugar
+
+just a more readable way to write async function 
+
+we write js code without using promises by using callback.
+
+we can create our own async function this
+
+
+resolve is simple things(just like a call baCK fn when done with ur things then u call a call back fn , similar when promise is has to be resolve then you call resolve fn, which is then's fn) like u resolve 0prmises and pass some message (data) so that the resolve function is function which is inside the then.function(like it receive those data which is send by resolve those data which is send by resolve at promise resolve time) similar to call back function 
+I think this is easy way to understand .

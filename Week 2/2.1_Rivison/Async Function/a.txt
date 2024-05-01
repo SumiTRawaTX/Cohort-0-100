@@ -1,0 +1,11 @@
+% // two async function we study till
+% first setTimeout 
+% and second is readFile
+
+% 1. your javascript doesn't have access to everything    immediately 
+% 2. there are siome tasks it neeeds to wait for
+% 3. Reading a file
+% 4. sending a network request
+% 5. a deliberate timeout
+
+hi there i am sumit rawat

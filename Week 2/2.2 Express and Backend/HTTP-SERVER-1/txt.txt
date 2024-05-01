@@ -1,0 +1,5 @@
+fs -> filesystem - read files on system, write to files on system
+
+// terminal commands
+// package-json : npm init -y
+// node_module : npm install express
